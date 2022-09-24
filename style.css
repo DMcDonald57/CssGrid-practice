@@ -1,6 +1,9 @@
 html{
     background-color: blanchedalmond;
 }
+#gridcontainer{
+    display: grid;
+}
 
 img{
     width: 200px;
